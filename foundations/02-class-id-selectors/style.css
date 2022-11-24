@@ -1,0 +1,19 @@
+.odd-p {
+    background-color: rgb(221, 132, 132);
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+
+#div2 {
+    color: blue;
+    font-size: 30px;
+}
+
+#div4 {
+    background-color: rgb(114, 209, 114);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd-p.cool-p {
+    font-size: 24px;
+}
